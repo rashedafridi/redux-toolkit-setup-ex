@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Examole to show how to add redux store using redux-toolkit in React App
+
+![how redux work](./how-redux-work.png)
+![how async work in redux](./astnc-flow.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
